@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "491995657172",
+    "project_id": "leitorinclusivo",
+    "storage_bucket": "leitorinclusivo.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491995657172:android:9ec20b73b5452cc2ff5c41",
+        "android_client_info": {
+          "package_name": "com.gabriellybassetto.leitor_acessivel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "491995657172-8vi03unu3fgafj1mja01msi5j0ke37l6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKn4h_6E4TyaVzlGIJgh78QgeeIicIHl4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "491995657172-8vi03unu3fgafj1mja01msi5j0ke37l6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
